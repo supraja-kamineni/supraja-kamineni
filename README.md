@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Supraja Kamineni</h1>
 <h3 align="center">A passionate frontend developer and java developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/-6m2vqRjKDEAAAAi/geek-girl.gif">
+<img align="right" alt="Coding" width="100" src="https://media.tenor.com/-6m2vqRjKDEAAAAi/geek-girl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supraja-kamineni&label=Profile%20views&color=0e75b6&style=flat" alt="supraja-kamineni" /> </p>
 
